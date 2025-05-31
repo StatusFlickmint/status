@@ -12,7 +12,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP9RUa3NM-K9sLf96BliDhCnprinxuXNApQoSHpehujbiporOFQ-eCfSBGwckiK9GRu0WACoBklBwn8k9zUL5eKbbPQyE9sb55ttZuIt5urfW_cgDZz7SVxVJUJF4KaolVUvktJqygtchKgsq8lFf5smco0IHneX67LotUjwANOsOd7pBlGfEKOelh6_Yn/s180/favicon.png
   name: FlicMint Status
-  introTitle: "Discover the latest TV series, blockbuster movies, star profiles, ratings, reviews and entertainment news free on FlickMint anytime, anywhere."
+  introTitle: "Track FlickMint site Uptime status."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
