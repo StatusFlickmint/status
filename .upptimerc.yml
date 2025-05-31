@@ -1,30 +1,18 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: StatusFlickmint # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: FlickMint
+    url: https://www.flickmint.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  logoUrl: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP9RUa3NM-K9sLf96BliDhCnprinxuXNApQoSHpehujbiporOFQ-eCfSBGwckiK9GRu0WACoBklBwn8k9zUL5eKbbPQyE9sb55ttZuIt5urfW_cgDZz7SVxVJUJF4KaolVUvktJqygtchKgsq8lFf5smco0IHneX67LotUjwANOsOd7pBlGfEKOelh6_Yn/s180/favicon.png
+  name: FlicMint Status
+  introTitle: "Discover the latest TV series, blockbuster movies, star profiles, ratings, reviews and entertainment news free on FlickMint anytime, anywhere."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
