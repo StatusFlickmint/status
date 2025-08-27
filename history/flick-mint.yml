@@ -1,7 +1,7 @@
 url: https://www.flickmint.com
-status: up
-code: 200
-responseTime: 268
-lastUpdated: 2025-08-27T21:39:50.239Z
+status: down
+code: 429
+responseTime: 623
+lastUpdated: 2025-08-27T21:48:59.849Z
 startTime: 2025-05-31T20:01:07.380Z
 generator: Upptime <https://github.com/upptime/upptime>
